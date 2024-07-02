@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+
+}
+
+.margen{
+    background-color:yellowgreen;
+    margin: 100px 800px 100px 100px;
+    padding: 80px 80px 80px 80px;
+    height: 500px;
+    width: 1500px;
+    border: blueviolet solid 20px;
+    background-image: url(charles-greely-10.jpg);
+    background-position: center;
+
+    
+
+}
+
+#fondo{
+    background-color: lightsalmon;
+    margin: 80px 30px 80px 20px;
+    height: 400px;
+
+}
+
+img{
+    align-items: center;
+   
+
+}
